@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "id": "proj_a383c1ae",
+      "name": "тест",
+      "region": "г. Брянск",
+      "rooms": [],
+      "total_cost": 0,
+      "created_date": "2026-11-26 01:34:25",
+      "metadata": {
+        "room_count": 0
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.1",
+    "total_projects": 1,
+    "last_modified": "2026-11-26T01:40:19.590725"
+  }
+}
