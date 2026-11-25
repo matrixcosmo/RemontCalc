@@ -39,7 +39,8 @@
 ---
 
 ## 🏗️ Архитектура проекта
-<img width="1001" height="733" alt="изображение" src="https://github.com/user-attachments/assets/d759dea7-40d6-423d-8cde-d608019d184b" />
+![Архитектура и потоки данных RemontCalc](docs/screenshots/architecture.png)
+
 
 ```text
 remont_app/
